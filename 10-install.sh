@@ -9,10 +9,10 @@ if [ $USERID -ne 0 ]; then
    exit 1
 fi       
 
-  echo " installing mysql"
-  dnf install mysql -y
+echo " installing mysql"
+dnf install mysql -y
 
-  
+
 
 
   
