@@ -9,6 +9,10 @@ echo "sume is :$SUM"
 
 #array
 
-MOVIES=("RRR""varanasi""pushpa")
+MOVIES=("RRR" "varanasi"  "pushpa" )
 echo "movies are : ${MOVIES[@]}"
+echo "first movies are : ${MOVIES[0]}"
+echo "second movies are : ${MOVIES[1]}"
+echo "thrid movies are : ${MOVIES[2]}"
+
 
