@@ -11,6 +11,6 @@ read PASSWORD
 
 echo "password is $PASSWORD "
 
-echo "nagendra"
+
 
 
