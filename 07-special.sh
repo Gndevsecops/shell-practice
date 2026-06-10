@@ -12,4 +12,4 @@ sleep 5 &
 echo "pid of background running just now : $!"
 echo "Line number :$LINENO"
 echo "script excuted in $SECONDS seconds"
-echo "random number : $RANDOMNUMBER"
+echo "Random number: $RANDOM"
