@@ -11,8 +11,3 @@ fi
 
 echo " installing mysql"
 dnf install mysql -y
-
-
-
-
-  
