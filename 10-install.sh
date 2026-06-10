@@ -10,7 +10,7 @@ if [ $USERID -ne 0 ]; then
 fi       
 
 echo " installing mysql"
-dnf install myyugsql -y
+dnf install mysql -y
 
 echo " I am contuning ...."
 echo " I am still contunie..."
