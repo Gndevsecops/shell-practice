@@ -14,7 +14,7 @@ if [$NUMBER -ge 20]; then
 elif [$NUMBER -eq 20]; then
    echo  " Give number $NUMBER is equall to 20"
 
-else [$NUMBER -lt 20]; then
+else 
   echo "give number $NUMBER is less than 20"
 
 fi 
