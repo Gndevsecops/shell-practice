@@ -11,7 +11,7 @@ NUMBER=$1
 if [$NUMBER -ge 20]; then
    echo "Give number $NUMBER is greater then to 20"
 
-else if [$NUMBER -eq 20]; then
+elif [$NUMBER -eq 20]; then
    echo  " Give number $NUMBER is equall to 20"
 
 else 
