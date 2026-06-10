@@ -8,13 +8,13 @@ NUMBER=$1
 # ne  -not Equall
 # ge  -greater than or equal
 
-if[$NUMBER -ge 20]; then
+if [$NUMBER -ge 20]; then
    echo "Give number $NUMBER is greater then to 20"
 
-elif[$NUMBER -eq 20]; then
+elif [$NUMBER -eq 20]; then
    echo  " Give number $NUMBER is equall to 20"
 
-else[$NUMBER -lt 20]; then
+else [$NUMBER -lt 20]; then
   echo "give number $NUMBER is less than 20"
 
 fi 
